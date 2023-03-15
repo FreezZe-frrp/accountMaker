@@ -33,6 +33,7 @@ input {
   background-color: #4d5259;
   color: white;
   border-style: none;
+  text-align: center;
   font-size: large;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
